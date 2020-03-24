@@ -17,18 +17,54 @@ namespace Shop.Data.mocks
                 return new List<Car>
                 {
                     new Car{
-                        name = "Tesla",
-                        shortDesc="фцаывц", longDesc = "фцвфцфв",
-                        img = "./../Pictures/Catalog/Image/rocket.png",
+                        name = "qwdqwd1",
+                        shortDesc="wefbvr1", longDesc = "qwdqwd1",
+                        img = "/img/boatbig.png",
+                        price = 45000,
+                        isFavourite = true,
+                        available = true,
+                        Category = _carsCategory.AllCategories.First()
+                    },
+                     new Car{
+                        name = "aasdaw2",
+                        shortDesc="dfhrw2", longDesc = "awdawd2",
+                        img = "/img/boatbig.png",
+                        price = 45000,
+                        isFavourite = true,
+                        available = true,
+                        Category = _carsCategory.AllCategories.First()
+                    },
+                      new Car{
+                        name = "asdcqwe3",
+                        shortDesc="gwefwef3", longDesc = "bdfbrs3",
+                        img = "/img/busred.png",
+                        price = 45000,
+                        isFavourite = true,
+                        available = true,
+                        Category = _carsCategory.AllCategories.First()
+                    },
+                       new Car{
+                        name = "sdfvsv4",
+                        shortDesc="dfbdfgr4", longDesc = "wegwewf4",
+                        img = "/img/planeace.png",
+                        price = 45000,
+                        isFavourite = true,
+                        available = true,
+                        Category = _carsCategory.AllCategories.First()
+                    },
+                        new Car{
+                        name = "gdfb5",
+                        shortDesc="wrgrg5", longDesc = "wefh5",
+                        img = "/img/carracer.png",
                         price = 45000,
                         isFavourite = true,
                         available = true,
                         Category = _carsCategory.AllCategories.First()
                     },
                     new Car{
-                        name = "FEef",
-                        shortDesc="фцаывц", longDesc = "фцвфцфв",
-                        img = "./../Pictures/Catalog/Image/rocket.png",
+                        name = "heth6",
+                        shortDesc="grgh6", longDesc = "ergeht6",
+                        img = "/img/planepaper.png",
                         price = 45000,
                         isFavourite = true,
                         available = true,
